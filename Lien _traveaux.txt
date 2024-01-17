@@ -1,0 +1,8 @@
+Lien Trello : 
+https://trello.com/b/D6TngsNg/projet-learnhome-kanban-board
+
+Lien figma tamplet : 
+https://www.figma.com/file/r87Mn0Fm8m65QRMOkthjo7/LearnAHome?type=whiteboard&node-id=0-1&t=wn8GYEbcvkkYtG48-0
+
+Lien figma diagramme de cas d'utilisation : 
+https://www.figma.com/file/qB0jmQfF6A3GcHaMvs0xcD/Diagrammes-de-Cas-d'Usage-pour-Learn%40Home-Djennad-Rany?type=whiteboard&t=mtaZjnQkVOe9AqCd-0
